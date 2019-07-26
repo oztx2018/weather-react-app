@@ -1,0 +1,9 @@
+
+.wrapper {
+    border: 2px black solid;
+    background-image: url('https://media.idownloadblog.com/wp-content/uploads/2017/04/WeatherLock-Lock-screen-730x480.jpg')
+}
+
+.weather-results {
+    margin-top: 20px;
+}
